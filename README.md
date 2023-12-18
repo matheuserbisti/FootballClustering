@@ -12,7 +12,7 @@ Europe's national leagues are amply regarded as the best in the world, containin
 2. Spain (La Liga)
 3. Italy (Serie A)
 4. Germany (Bundesliga)
-5. France (League One)
+5. France (League 1)
 
 There are many reasons why these leagues are considered the best ones, but I would like to highlight one especifically: the last team outside of theses 5 nations to win the Champions League (Europe's continental championship) was Porto in the 2003/04 season, almost 20 years ago.
 
