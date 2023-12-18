@@ -25,18 +25,18 @@ Considering the history and tradition of their respective teams, we chose Nether
 
 Our project was made in May 2021, which means that the last complete season was 2018/19. We could've used data from the 2019/20 season, but considering complications that happened during that time because of the Coronavirus Pandemic, we ultimately decided that the 2018/19 season was the better choice.
 
-Both datasets were retrieved from the www.football-data.co.uk website, containing data from Eredivisie and Primeira Liga 2018/19 season. The data came mostly "clean", which means we didn't had to transform or remove much data. However, we did create new variables to enhance our analysis.
+Both datasets were retrieved from the www.football-data.co.uk website, containing data from Eredivisie and Primeira Liga 2018/19 season. The data came mostly "clean", which means we didn't have to transform or remove much data. However, we did create new variables to enhance our analysis.
 
 With our data obtained, we then proceeded to study them using Exploratory Analysis, Hypothesis Testing and Clusterization. The details of every analysis can be found on the "Trabalho\_CE2.ipynb" file on this same repository. The whole analysis is written in portuguese, but using a translator should help you, in case you need to read it in another language.
 
-In conclusion, our project points out that both Eredivisie and Primeira Liga can be considered the 6th best league, as it's mostly dependant on the type of spectator you are. If you eager for the highest level possible, the best teams for Eredivisie can provide you exactly that. However, Primeira Liga's teams are much more balanced overall, which translates to a more competitive and disputed championship.
+In conclusion, our project points out that both Eredivisie and Primeira Liga can be considered the 6th best league, as it's mostly dependant on personal spectator preferences. If the spectator eagers for the highest level possible, the best teams for Eredivisie can provide exactly that. However, Primeira Liga's teams are much more balanced overall, which translates to a more competitive and disputed championship.
 
 
 ## License and Contact
 
-This project was created by Matheus Erbisti and Ramon Moreira, with the support of our college professor Eduardo Monteiro. It falls under the MIT License, which means you are free to use and adapt our code at your will, just make sure to reference us!
+This project was created by Matheus Erbisti and Ramon Moreira, with guidance from our college professor Eduardo Monteiro. It falls under the MIT License, which means you are free to use and adapt our code at your will, just make sure to reference us!
 
-If you need to make contact about this project, you can contact me over on LinkedIn (https://www.linkedin.com/in/matheus-erbisti-b74168172/) or by the e-mail matheuserbisti@hotmail.com
+If you need to make contact about this project, you can reach out to me on LinkedIn (https://www.linkedin.com/in/matheus-erbisti-b74168172/) or via e-mail at matheuserbisti@hotmail.com.
 
 
 Thank you for your attention!
